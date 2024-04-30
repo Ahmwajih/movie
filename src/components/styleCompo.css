@@ -1,0 +1,46 @@
+.register-form {
+  display: flex;
+  background-color: white;
+  border: 1px solid white;
+  height: 34rem;
+  width: 24rem;
+}
+
+.form-container {
+  display: flex;
+  justify-content: center;
+}
+
+.register-bg {
+  display: flex;
+  background-image: url(https://picsum.photos/1600/900);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 34rem;
+  width: 24rem;
+  border: 1px solid white;
+
+}
+
+
+.register {
+  background: radial-gradient(circle, rgba(0, 0, 0, 1) 0%, rgba(25, 25, 112, 1) 100%);
+
+}
+
+.movie-image {
+  width: 100%; 
+}
+
+.bg-slate-900 {
+  background-color: rgb(50, 51, 52); 
+}
+
+.text-white {
+  color: white; 
+}
+
+.rightpart {
+  padding-left: 0;
+}
